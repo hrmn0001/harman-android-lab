@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">harman Android lab</string>
+    <string name="BUTTON_MESSAGE">I m button</string>
 </resources>
